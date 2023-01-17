@@ -1,0 +1,269 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box-1 {
+  padding: 90px 0px 90px 0px;
+  text-align: center;
+  background-color: rgb(245, 245, 245);
+}
+
+.hh {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+}
+.box-2 {
+  text-align: center;
+}
+.p1 {
+  padding-top: 10px;
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+  text-align: center;
+}
+.im {
+  height: 460px;
+}
+
+.bot {
+  width: 189px;
+  height: 40px;
+  margin: 90px 10px;
+  border-radius: 30px;
+  background-color: #6f2cff;
+  border-color: #6f2cff;
+}
+.bot2 {
+  background-color: rgb(255, 109, 114);
+  width: 189px;
+  height: 40px;
+  border-radius: 20px;
+  border-color: rgb(255, 109, 114);
+}
+.asos {
+  position: relative;
+  width: 100%;
+  height: 751px;
+  background-color: white;
+}
+
+.pr {
+  padding: 90px 0px;
+}
+
+.hsh {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+}
+
+.bol-1{
+  position: relative;
+  width: 100%;
+  height: 751px;
+  background-color: rgb(255, 255, 255);
+}
+
+.ht-h {
+  padding: 90px 0px;
+}
+
+.hm {
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+}
+
+.ram-bir {
+  width: 80%;
+  height: 438px;
+  text-align: center;
+  margin: 0px auto;
+}
+
+.ram {
+  display: inline-block;
+  height: 438px;
+  width: 319px;
+  margin-left: 40px;
+  background-color: rgb(245, 245, 245);
+}
+
+.mgb {
+  height: 205px;
+  border-radius: 7px 7px 0px 0px;
+}
+
+.mg-1 {
+  position: relative;
+  top: 25px;
+  bottom: 15px;
+  height: 35px;
+}
+
+.pt-c{
+  padding-top: 50px;
+  padding-left: 68px;
+  padding-right: 68px;
+  font-family: Roboto;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: rgb(111, 44, 255);
+  text-align:center;
+}
+
+
+.blok {
+    height: 1100px;
+    background-color: rgb(245, 245, 245);
+}
+
+.blok-t {
+    padding: 90px 0px;
+}
+.div {
+  display: block;
+}
+
+.bosh {
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+}
+
+.p {
+  padding-top: 10px;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+  text-align: center}
+
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.obshi {
+    width: 80%;
+    height: 438px;
+    text-align: center;
+    margin: 0px auto;
+}
+
+
+.blok1 {
+    display: inline-block;
+    height: 199px;
+    width: 40%;
+    background-color: rgb(23, 0, 46);
+    margin: 30px;
+    border-radius: 8px 10px 10px 8px;
+}
+
+.blok-im{
+    text-align: left;
+    padding-top: 34px;
+    padding-left: 38px;
+}
+
+.blok-pa {
+    color: rgb(245, 245, 245);
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    text-align: left;
+    padding-left: 38px;
+}
+
+.blok-im h2 {
+    position: relative;
+    top: -18px;
+    margin-left: 25px;
+    margin-bottom: 15px;
+    display: inline-block;
+    color: rgb(245, 245, 245);
+    height: 25px;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.blok-p  p {
+    margin-bottom: 25px;
+}
+
+.jo {
+    position: relative;
+    top: -24px;
+    width: 350px;
+    border-bottom: 2px solid;
+}
+
+.blok2   {
+    display: inline-block;
+    height: 199px;
+    width: 40%;
+    background-color: rgb(23, 0, 46);
+    margin: 30px;
+    border-radius: 8px 10px 10px 8px;
+}
+
+.blok3  {
+  display: inline-block;
+  height: 199px;
+  width: 40%;
+  background-color: rgb(23, 0, 46);
+  margin: 30px;
+  border-radius: 8px 10px 10px 8px;
+}
+
+.blok4 {
+  display: inline-block;
+  height: 199px;
+  width: 40%;
+  background-color: rgb(23, 0, 46);
+  margin: 30px;
+  border-radius: 8px 10px 10px 8px;
+}
+
+.blok5 {
+  display: inline-block;
+  height: 199px;
+  width: 40%;
+  background-color: rgb(23, 0, 46);
+  margin: 30px;
+  border-radius: 8px 10px 10px 8px;
+}
+
+.blok6 {
+  display: inline-block;
+  height: 199px;
+  width: 40%;
+  background-color: rgb(23, 0, 46);
+  margin: 30px;
+  border-radius: 8px 10px 10px 8px;
+}
+
